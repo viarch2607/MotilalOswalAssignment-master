@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MotilalOswalAssignment</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="userid">Enter User ID</string>
+    <string name="password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="fill_all_fields">Field should not be blank</string>
+    <string name="hello">Hello</string>
+    <string name="length_shuoud_be_4">Minimum length should be 4.</string>
+    <string name="invalid_input">Invalid Input.</string>
+
+</resources>
